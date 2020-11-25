@@ -13,8 +13,10 @@ body{
     font-size: 1.5em;
 }
 .imagen{
-    width: 23em;
-    height: 23em;
+    width: 14em;
+    height: 14em;
+    border-radius: 50%;
+   
 }
   
 .saludo-1{
@@ -44,6 +46,10 @@ body{
         font-size: 10px;
         margin: 0px;
         padding: 0px;
+    }
+    .imagen{
+        width: 15em;
+        height: 15em;
     }
     .saludo-1{
         font-size: 14px;
